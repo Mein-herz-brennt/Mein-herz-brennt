@@ -30,15 +30,14 @@ Whether it's diving deep into statistical theory or visualizing complex datasets
 - 🎯 **Geometry Tutor** – Tool to model inscribed and central angle problems for secondary students.
 - 📈 **Data Dashboard for Ukrainian Education** – Exploratory analysis and visualizations on national education trends.
 
-> Want to see more? Check out my [repositories](https://github.com/yourusername?tab=repositories)!
+> Want to see more? Check out my [repositories](https://github.com/Mein-herz-brennt?tab=repositories)!
 
 ---
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📧 [Email](mailto:your.email@example.com)
-- 🌍 [Portfolio Website](https://yourwebsite.com) *(if you have one)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/владислав-абрамчук-197b32261)
+- 📧 [Email](mailto:icaevvlad81@gmail.com)
 
 ---
 
