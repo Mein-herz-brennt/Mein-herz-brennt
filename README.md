@@ -1,16 +1,6 @@
-# 👋 Hello there, I'm Vladyslav Abramuk!
-
-🎓 **Aspiring Computational Mathematician** | 📊 **Junior Data Analyst** | 💡 **Lifelong Learner**
-
----
-
-## 🚀 About Me
-
-I'm a Master's student in **Computational Mathematics** at Taras Shevchenko National University of Kyiv, with a Bachelor's in **Mathematics Education**. Passionate about data-driven insights, elegant models, and building tools that make numbers speak volumes.
-
-Whether it's diving deep into statistical theory or visualizing complex datasets, I thrive at the intersection of **math, data, and code**.
-
----
+<div align="center">
+  <img height="150" src="IMG_2088.JPG" alt="Vladyslav Abramchuk" />
+</div>
 
 ## 🧰 Tech & Tools I Use
 
