@@ -26,8 +26,13 @@
 
 ## 📫 Get in Touch
 
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/владислав-абрамчук-197b32261)
 - 📧 [Email](mailto:icaevvlad81@gmail.com)
+
+<div align="center">
+   <img src="https://streak-stats.demolab.com?user=Bogdangarantov&theme=dark" alt="GitHub Streak" />
+</div>
 
 ---
 
