@@ -2,6 +2,21 @@
   <img height="250" src="img_avatar.jpg" alt="Vladyslav Abramchuk" />
 </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/владислав-абрамчук-197b32261/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/vo1doni/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/vo1doni" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bogdangarantov.Bogdangarantov&"  />
+</div>
+###
 ## 🧰 Tech & Tools I Use
 
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
