@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="img_avatar.jpg" alt="Vladyslav Abramchuk" />
+  <img height="250" src="img_avatar.jpg" alt="Vladyslav Abramchuk" />
 </div>
 
 ## 🧰 Tech & Tools I Use
