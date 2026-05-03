@@ -17,7 +17,7 @@
 <h1 align="center">Hey there 👋</h1>
 
 <h3 align="left">👩‍💻  About Me</h3>
-<p align="left">I'm Vladyslav - a backend developer with experience in bot development and data parsing, from Ukraine.</p>
+<p align="left">I'm Vladyslav - a backend developer with experience in back-end, bot development and data scraping, from Ukraine.</p>
 
 <h3 align="left">🧰 Languages, Frameworks & Tools I Use</h3>
 <div align="center">
